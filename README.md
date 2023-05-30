@@ -30,4 +30,3 @@
 
 #### **Estou confiante de que minha combinação de habilidades técnicas e conhecimentos em segurança cibernética será um ativo valioso para qualquer equipe de desenvolvimento web. Estou empolgado para enfrentar novos desafios, aprender e crescer profissionalmente enquanto trabalhamos juntos em projetos empolgantes.**
 
-
