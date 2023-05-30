@@ -1,5 +1,5 @@
 
-## **Olá! Eu sou WIL** ✋
+## **Olá! Eu sou WIL** 🤘
 
 [![Blog](https://img.shields.io/website?label=ImWil.com&style=for-the-badge&url=https://imwil.com.com/)](https://imwil.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cuscuz.me)
