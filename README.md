@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/website?label=ImWil.com&style=for-the-badge&url=https://imwil.com.com/)](https://imwil.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cuscuz.me)
 
-![Wil GitHub stats](https://github-readme-stats.vercel.app/api?username=devWil01&show_icons=true&theme=Radical&count_private=true)
+![Wil GitHub stats](https://github-readme-stats.vercel.app/api?username=devWil01&show_icons=true&theme=radical&count_private=true)
 
 ## **Tecnologias que eu uso no meu dia**
 
